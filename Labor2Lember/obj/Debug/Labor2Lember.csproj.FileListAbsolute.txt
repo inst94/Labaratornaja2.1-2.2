@@ -1,0 +1,11 @@
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\bin\Debug\Labor2Lember.exe.config
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\bin\Debug\Labor2Lember.exe
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\bin\Debug\Labor2Lember.pdb
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.csprojAssemblyReference.cache
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.Form1.resources
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.Properties.Resources.resources
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.csproj.GenerateResource.cache
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.csproj.CoreCompileInputs.cache
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.exe
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.pdb
+C:\Users\lembe\Source\Repos\Labor2Lember\Labor2Lember\obj\Debug\Labor2Lember.Form2.resources
